@@ -1,4 +1,4 @@
-const API_KEY = 'cs8t6i1r01qu0vk4iiggcs8t6i1r01qu0vk4iih0'; // Replace with your Finnhub API key
+const API_KEY = 'xxxxxxxxxx'; // Replace with your Finnhub API key
 
 // Set an alarm to check prices every minute
 chrome.alarms.create('priceCheck', { periodInMinutes: 1 });
